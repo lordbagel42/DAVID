@@ -51,6 +51,9 @@ One plate isn't that expensive. It's only about $12 to machine and then another 
 I like aluminum, ok? Don't judge me.
 This behemoth is as rigid as a house. Maybe more.
 
+There is a large hole on the top. Currently, I have no idea where the cables and such will need to go. Solution: Big hole. I would like to change it to just being 2 holes, one for a PTFE tube and one for the toolhead board cable.
+God I love toolhead boards.
+
 # the most tedious sketch of my life
 
 ![alt text](assets/bearing-holder.png)
