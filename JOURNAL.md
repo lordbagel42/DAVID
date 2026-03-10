@@ -109,3 +109,31 @@ I entirely forgot the point of this structure is to hold onto the arms.
 That's an extra few hours I won't get back. Lol.
 
 I'm going to just kinda cheat and call it good.
+
+# i've messed up horribly. like so badly.
+
+![alt text](assets/i-messed-up.png)
+
+That's the device currently. I managed to miss a, perhaps key, part of Apsu's Deltaron design, which I'm basing this off of.
+
+This is her design:
+
+![alt text](assets/apsus-design.png)
+
+Can you see it?
+Here's the thing to note: Her carriers are on the sides of the towers. Mine are on the insides.
+
+This means that the angles are HORRIBLY wrong. Like.....so, so wrong.
+
+I think it might be possible to fix my version, but I honestly don't know.
+I need to redo the carrier mounts anyway, so this is a decent excuse to do that I guess?
+
+I don't know how I didn't notice this either until just now, but the passive (**RIGHT**) side of the belt is just entirely cutting through the parts. For some reason I thought this had to go in the middle no matter what, and ended up making some...design decisions. because of that. And I didn't even do them right, the belt clip apparently just isn't in the right spot? Not sure when I broke that.
+
+![alt text](assets/cutting-through.png)
+
+Anywho. I like the belt clip design a lot, so I'm going to keep that. Maybe move it to not need the weird redirector pieces.
+
+Oh boy.
+
+Total of 12 hours in this thing, and I need to do another major redesign :3 !
