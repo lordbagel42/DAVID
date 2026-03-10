@@ -96,3 +96,16 @@ I have no idea how strong this mount will be. I'll test it out when my screws I 
 The amount of holes in this one plate is getting a little insane.
 
 ![alt text](assets/base-toomanyholes.png)
+
+# tunnel vision will be the death of me
+
+![alt text](assets/forgot-arm-mounts.png)
+
+Look at this lovely, beatiful belt clip. It's great.
+
+Note how there is nowhere for the arms to mount on this thing.
+
+I entirely forgot the point of this structure is to hold onto the arms.
+That's an extra few hours I won't get back. Lol.
+
+I'm going to just kinda cheat and call it good.
