@@ -92,3 +92,7 @@ Here's the motor mount stuff itself:
 I'll put the screws in later. I need to stop using screw holes in my sketches, the Onshape hole function is kinda wonderful. But then your sketches don't tell you as much info. Maybe I just start using construction holes, lol.
 
 I have no idea how strong this mount will be. I'll test it out when my screws I ordered for a different project arrived, though. I think it'll be strong enough.
+
+The amount of holes in this one plate is getting a little insane.
+
+![alt text](assets/base-toomanyholes.png)
