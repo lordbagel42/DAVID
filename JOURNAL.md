@@ -68,3 +68,27 @@ This took me an hour to make. Maybe hour and a half. I restarted 5+ times. It do
 Anyway. That's all I've done for now. Going to start working on the tripteron arms themselves. Ideally I would use carbon fiber tubes for the weight savings, but my brother has yet to finish his filament winder so I'll have to take that idea out of rotation. Perhaps I make wooden arms on the lathe though--lightweight and decently strong. Plus, it could look cool. Probably just going to end up printed though, lol.
 
 Overall time: 3.5 hours.
+
+# turns out you aren't supposed to use leadscrews on a delta.
+
+I just spent half an hour trying out a couple different leadscrew mounts.....
+![alt text](assets/leadscrew-mount.png)
+
+Oh well. I'll nuke it all and switch to belts I guess. Oops.
+
+# this is cursed in the best way
+
+Since I have an aluminum sheet for the base, I can just tap that and bolt things into it. It makes mounting things very easy.
+.....so I crafted up this.
+
+![alt text](assets/base-with-pico.png)
+
+Yes. That is a SKR Pico with 3000 parts. The render for this thing is going to be beautiful.
+
+Here's the motor mount stuff itself:
+
+![alt text](assets/motor-mount-itself.png)
+
+I'll put the screws in later. I need to stop using screw holes in my sketches, the Onshape hole function is kinda wonderful. But then your sketches don't tell you as much info. Maybe I just start using construction holes, lol.
+
+I have no idea how strong this mount will be. I'll test it out when my screws I ordered for a different project arrived, though. I think it'll be strong enough.
