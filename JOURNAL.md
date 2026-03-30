@@ -137,3 +137,33 @@ Anywho. I like the belt clip design a lot, so I'm going to keep that. Maybe move
 Oh boy.
 
 Total of 12 hours in this thing, and I need to do another major redesign :3 !
+
+# fixed :3
+
+Fixed it. There's something oddly satisfying about deleting 30 entities from your feature tree.
+
+![alt text](assets/new-carrier.png)
+
+Here's the new carrier. It holds a simple F695ZZ flanged bearing on the side. I'm going to also remove the secondary linear rail--just adding expense I don't actually need.
+
+The design also does this cool thing:
+
+![alt text](assets/cool-thing-tnut.png)
+
+It's a tnut slot :3
+
+I have a TON of M6 tnuts, so I'm just going to use those in this thing instead of heat-set inserts or inserting square nuts. These hold well, and they're quite strong too.
+
+# the final stretch
+
+I've changed from the flanged F695ZZ bearings to simple 605rs bearings like a skateboard uses. All I need is spinny, so I'm getting a $10 50 pack from amazon.
+
+Here's the final project:
+
+![alt text](assets/final.png)
+![alt text](assets/final-topdown.png)
+
+I've stylized it to look like David from Cyberpunk Edgerunners. I think I could do this a bit better, probably, but oh well lol.
+
+The bed just screws onto the top plate with a few bolts, I'll likely be machining this myself.
+The toolhead uses an orbiter 2.5 and lancer standard because I have those on hand and really like them, along with an Orbitool toolboard.
