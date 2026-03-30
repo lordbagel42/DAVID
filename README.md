@@ -19,3 +19,7 @@ View the bom on Google Sheets here: https://docs.google.com/spreadsheets/d/1ssPP
 You can also view the bom.csv file.
 
 The current overall cost is $390.11
+
+# CAD
+
+You can find the full assembly in `Assembly.step` or via [this Onshape link](https://cad.onshape.com/documents/125e699c4d940a834b72c714/w/9e32712ab8178bbdaad46520/e/8282c720423304b6511b1ad5?renderMode=0&uiState=69cafec3293c5ff02b9f9e37). Onshape will be more up to date, generally. There is an SKR Pico in the bottom of the printer that isn't included in the `Assembly.step` file as it pushes the file over 100MB, githubs limit.
